@@ -26,3 +26,11 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+# No Mac OS X Filestore info
+.DS_Store
+/**/.DS_Store
+
+#
+
+# End
